@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1548433304,
+	"version": 1548439088,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -38,6 +38,7 @@
 		"images/sprite17-sheet0.png",
 		"images/sprite23-sheet0.png",
 		"images/sprite19-sheet0.png",
+		"images/sangue.png",
 		"media/262313_1844073-lq.ogg",
 		"media/glock18-1.m4a",
 		"media/glock18-1.ogg",
